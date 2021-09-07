@@ -16,6 +16,8 @@ A PWA for tracking your budget! Built with Express, Mongoose, and MongoDB.
 
 Deployed app: [Deployed Website](https://budget-tracker2-0.herokuapp.com/)
 
+![Homepage](https://user-images.githubusercontent.com/52016382/132408005-18e948dd-3451-4c7d-ae81-0114fe71226b.png)
+
 
 ## User Story
 As an avid traveler, I want to be able to track my withdrawals and deposits with or without a data/internet connection so that my account balance is accurate when I am traveling.
